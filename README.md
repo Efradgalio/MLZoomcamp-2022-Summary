@@ -2,6 +2,7 @@
 This is a summary of what I learned from mlzoomcamp on 2022
 
 Notes: 
+
 Week 1 - https://docs.google.com/document/d/1vNhIQ5yWX-Ad9cSxffnc_mm3qu3J1Rz9uqw93j6fp1c/edit?usp=sharing 
 
 Week 2 -
