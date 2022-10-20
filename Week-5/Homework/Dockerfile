@@ -1,13 +1,13 @@
 FROM python:3.9.12-slim
-R
+
 RUN pip install pipenv
 
 WORKDIR /app
-
 COPY ["Pipfile", "Pipfile.lock", "./"]
-COPY ["model1.bin" . "./"]
 
 RUN pipenv install --system --deploy
+
+COPY ["predict.py", "model1.bin" , "./"]
 
 EXPOSE 9696
 
