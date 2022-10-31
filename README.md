@@ -12,4 +12,4 @@ Week 3 -
 Week 4 - 
 
 Week 5 - all the explanation code for docker, flask are in here
-  Important reference on how to install wsl+docker: https://github.com/MemoonaTahira/MLZoomcamp2022/blob/main/Notes/Setting_up_WSL+Docker.md
+  Important reference on how to install wsl+docker: https://github.com/MemoonaTahira/MLZoomcamp2022/blob/main/Notes/Week_5-flask_and_docker_for_deployment/Setting_up_WSL%2BDocker.md
