@@ -12,6 +12,7 @@ flask = "*"
 jupyter = "*"
 ipython = "*"
 gunicorn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
