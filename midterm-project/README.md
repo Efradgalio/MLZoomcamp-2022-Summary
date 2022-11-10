@@ -5,4 +5,4 @@
 
 Churn is intimately connected to a company’s performance. The more one learns about customers’ behavior, the more money one can make. Analyzing customer churn also aids in finding and improving the shortcomings of services provided by the company.
 
-This project is a solution to the company who wants to learn which customers are more likely to churn and then the company can take decision for retaining those customers in order to make more money.
+This project is a solution for companies who wants to learn which customers are more likely to churn and then the company can take decision for retaining those customers in order to make more money.
