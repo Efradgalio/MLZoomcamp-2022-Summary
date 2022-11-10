@@ -8,7 +8,7 @@ Churn is intimately connected to a company’s performance. The more one learns 
 This project is a solution for companies who wants to learn which customers are more likely to churn and then the company can take decision for retaining those customers in order to make more money.
 
 ## Getting Started
-How to run locally
+### How to run locally
 
 First activate the env inside the clone folder in your machine.
 
