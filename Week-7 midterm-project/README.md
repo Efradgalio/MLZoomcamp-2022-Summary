@@ -24,6 +24,11 @@ After that, run the following to start the churn web service.
 docker run –it –-rm -p 9696:9696 <tag_name>
 ```
 
+**Note:** If the docker daemon is not running, run the following code.
+```
+sudo dockerd
+```
+
 ## Testing the Web Service
 Make sure the web service is on, then simply run the following code.
 ```
