@@ -12,7 +12,7 @@ First activate the env inside the clone folder in your machine.
 ```
 pipenv shell
 ```
-Make sure your machine already installed pipenv
+**make sure your machine already installed pipenv.**
 
 Then, create the docker inside your machine.
 ```
@@ -30,4 +30,4 @@ Make sure the web service is on, then simply run the following code.
 python testing_predict_api.py
 ```
 
-**Note:** You can change the values inside testing_predict_api.py to play with and get the different result from the web service
+**Note:** You can change the values inside testing_predict_api.py to play with and get the different result from the web service.
