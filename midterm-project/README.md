@@ -1,5 +1,5 @@
 # Telco Churn Prediction
-![alt text](https://images.squarespace-cdn.com/content/v1/588f9607bebafbc786f8c5f8/1607924812500-Y1JR8L6XP5NKF2YPHDUX/image6.png?format=750w)
+![alt text](https://www.retently.com/wp-content/uploads/2015/11/leading-causes-of-churn-1.png)
 
 “Customer Churn” refers to the loss of customers. That is, if a customer or a client stops taking services from a company, it is said that he/she has churned.
 
