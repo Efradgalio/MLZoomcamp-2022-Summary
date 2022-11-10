@@ -9,10 +9,10 @@ This project is a solution for companies who wants to learn which customers are 
 
 ## Getting Started
 First activate the env inside the clone folder in your machine.
+**Make sure your machine already installed pipenv.**
 ```
 pipenv shell
 ```
-**make sure your machine already installed pipenv.**
 
 Then, create the docker inside your machine.
 ```
