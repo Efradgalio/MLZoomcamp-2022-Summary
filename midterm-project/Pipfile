@@ -14,8 +14,10 @@ ipython = "*"
 gunicorn = "*"
 matplotlib = "*"
 seaborn = "*"
+tqdm = "*"
 
 [dev-packages]
+awsebcli = "*"
 
 [requires]
 python_version = "3.9"
