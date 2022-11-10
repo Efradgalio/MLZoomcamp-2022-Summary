@@ -1,15 +1,7 @@
-# mlzoomcamp-summary
-This is a summary of what I learned from mlzoomcamp on 2022
+# Machine Learning Zoomcamp
+A bootcamp held by Alexey Grigorev from DataTalks.Club. 
+This bootcamp is free of charge.
 
-Notes: 
+This repor contains my summary of what I learned from mlzoomcamp on 2022 cohort.
 
-Week 1 - https://docs.google.com/document/d/1vNhIQ5yWX-Ad9cSxffnc_mm3qu3J1Rz9uqw93j6fp1c/edit?usp=sharing 
-
-Week 2 -
-
-Week 3 -
-
-Week 4 - 
-
-Week 5 - all the explanation code for docker, flask are in here
-  Important reference on how to install wsl+docker: https://github.com/MemoonaTahira/MLZoomcamp2022/blob/main/Notes/Week_5-flask_and_docker_for_deployment/Setting_up_WSL%2BDocker.md
+Course Github page: https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp
