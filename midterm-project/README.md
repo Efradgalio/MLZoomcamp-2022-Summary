@@ -8,4 +8,14 @@ Churn is intimately connected to a company’s performance. The more one learns 
 This project is a solution for companies who wants to learn which customers are more likely to churn and then the company can take decision for retaining those customers in order to make more money.
 
 ## Getting Started
-bla bla bla
+Simply run the following code.
+
+First create the docker first inside your machine.
+```
+docker build -t <tag_name> .
+```
+
+After that, run the following to start the churn web service.
+```
+docker run –it –rm -p 9696:9696 <tag_name>
+```
