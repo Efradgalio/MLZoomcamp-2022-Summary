@@ -10,7 +10,7 @@ This project is a solution for companies who wants to learn which customers are 
 ## Getting Started
 Simply run the following code.
 
-First create the docker first inside your machine.
+First create the docker inside your machine.
 ```
 docker build -t <tag_name> .
 ```
