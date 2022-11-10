@@ -8,16 +8,20 @@ Churn is intimately connected to a company’s performance. The more one learns 
 This project is a solution for companies who wants to learn which customers are more likely to churn and then the company can take decision for retaining those customers in order to make more money.
 
 ## Getting Started
-Simply run the following code.
+First activate the env inside the clone folder in your machine.
+```
+pipenv shell
+```
+Make sure your machine already installed pipenv
 
-First create the docker inside your machine.
+Then, create the docker inside your machine.
 ```
 docker build -t <tag_name> .
 ```
 
 After that, run the following to start the churn web service.
 ```
-docker run –it –rm -p 9696:9696 <tag_name>
+docker run –it –-rm -p 9696:9696 <tag_name>
 ```
 
 ## Testing the Web Service
